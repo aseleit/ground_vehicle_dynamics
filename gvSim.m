@@ -1,4 +1,5 @@
 %This script models the dynamics of the Omni-directional mobile robot
+%with three wheeled traingular arrangment 
 
 %% Parameters definitions
 m = 1.5457;    %robot mass [kg]
